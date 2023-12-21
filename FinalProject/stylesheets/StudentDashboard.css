@@ -1,0 +1,20 @@
+﻿body {
+    background-image:url("../images/uni.jpg")
+}
+
+.btnDesign{
+    height:40px;
+    width:115px;
+    background-color:#302b2b;
+    color: #d7d7e3;
+    margin:25px;
+    justify-content:space-between;
+    cursor:pointer;
+}
+
+.container{
+    padding-left:400px;
+    display:inline-flex;
+    height:557px;
+    
+}

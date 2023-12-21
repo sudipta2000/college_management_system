@@ -1,0 +1,7 @@
+E:\New folder\FinalProject\StudentBAL\obj\Debug\StudentBAL.csprojResolveAssemblyReference.cache
+E:\New folder\FinalProject\StudentBAL\bin\Debug\StudentBAL.dll
+E:\New folder\FinalProject\StudentBAL\bin\Debug\StudentBAL.pdb
+E:\New folder\FinalProject\StudentBAL\bin\Debug\StudentDAL.dll
+E:\New folder\FinalProject\StudentBAL\bin\Debug\StudentDAL.pdb
+E:\New folder\FinalProject\StudentBAL\obj\Debug\StudentBAL.dll
+E:\New folder\FinalProject\StudentBAL\obj\Debug\StudentBAL.pdb

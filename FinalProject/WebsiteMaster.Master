@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WebsiteMaster.master.cs" Inherits="FinalProject.WebsiteMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="mainContentHead" runat="server">
+
+    </asp:ContentPlaceHolder>
+    <title>College Portal</title>
+    <link href="stylesheets/masterNavbar.css?val=1" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <span class="navbar"><a href="HomePage.aspx">
+            <img id="logo" src="images/unilogo.png" /></a>
+
+        </span>
+        <nav>
+            <ul class="nav-ul">
+
+                <li >
+                    <a href="HomePage.aspx">Home</a>
+                </li>
+
+                <li>
+                    <a href="AdminloginPage.aspx">Admin</a>
+                </li>
+                <li >
+                    <a href="LoginPage.aspx">Sign In</a>
+                </li>
+                <li >
+                    <a href="AboutUsPage.aspx">About</a>
+                </li>
+                <li >
+                    <a href="ContactUsPage.aspx">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="mainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="ftr">
+            <p>
+                ©2023 Raspy Wine, Inc. All rights reserved
+            </p>
+        </div>
+    </form>
+</body>
+</html>

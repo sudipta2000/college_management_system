@@ -1,0 +1,5 @@
+E:\New folder\FinalProject\StudentDAL\bin\Debug\StudentDAL.dll
+E:\New folder\FinalProject\StudentDAL\bin\Debug\StudentDAL.pdb
+E:\New folder\FinalProject\StudentDAL\obj\Debug\StudentDAL.dll
+E:\New folder\FinalProject\StudentDAL\obj\Debug\StudentDAL.pdb
+E:\New folder\FinalProject\StudentDAL\obj\Debug\StudentDAL.csprojResolveAssemblyReference.cache

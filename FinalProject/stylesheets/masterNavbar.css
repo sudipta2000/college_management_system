@@ -1,0 +1,58 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+    width:26%;
+    height:60px;
+    background-color:whitesmoke;
+}
+
+
+.nav-ul{
+    margin-top:10px;
+    margin-right:40px;
+}
+span{
+    width:10px;
+    height:50px;
+    padding-left:20px;
+}
+
+li a{
+    text-decoration:none;
+    text-align:center;
+    font-family:'Baskerville Old Face';
+    color:black;
+}
+header{
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    margin-right:20px;
+    background-color:whitesmoke;
+}
+#logo{
+    margin:10px;
+    width:150px;
+
+}
+
+
+li{
+    margin:10px;
+    display:inline-block;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li a{
+    color:brown;
+}
+#ftr p{
+    background-color:burlywood;
+    height:30px;
+    width:auto;
+    text-align:center;
+    padding-top:10px;
+}
